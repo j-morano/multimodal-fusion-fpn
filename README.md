@@ -1,3 +1,3 @@
 # multimodal-fusion-fpn
 
-Code to be uploaded after publication.
+Code to be uploaded upon publication.
