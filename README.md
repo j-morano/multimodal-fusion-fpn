@@ -69,3 +69,20 @@ Spacing is needed for the computation of the Hausdorff distance.
 ## Other information
 
 Level5 versions of the architectures differ from the other versions in that the fusion is done at the 5 levels, not only the first 4.
+
+
+## Citation
+
+If you use this code, please cite the following paper:
+
+```
+@ARTICLE{morano2024deep,
+  author={Morano, José and Aresta, Guilherme and Grechenig, Christoph and Schmidt-Erfurth, Ursula and Bogunović, Hrvoje},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  title={Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks},
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/JBHI.2024.3352970}
+}
