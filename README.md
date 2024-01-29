@@ -6,8 +6,12 @@ For questions about the code or the paper, please contact the first author, Jos√
 
 ## Framework
 
-![image](https://github.com/j-morano/multimodal-fusion-fpn/assets/48717183/44282cbe-22f7-49ed-9e32-7c9765d3b3f5)
-Our proposed framework defines a novel fusion approach that extracts and projects the features of all modalities into the feature space of the modality with the lowest dimensionality (_n_), so that they can be employed for localization tasks in the common (_n_-dimensional, _n_D) subspace.
+<img src="https://github.com/j-morano/multimodal-fusion-fpn/assets/48717183/61d40b1d-5b26-4427-b699-d524d7fcc7a1" width="60%">
+
+
+## Network architecture
+
+![image](https://github.com/j-morano/multimodal-fusion-fpn/assets/48717183/4fa337f1-7ef7-442a-964e-2f0d80b2bbc1)
 
 
 ## Setting up the environment
