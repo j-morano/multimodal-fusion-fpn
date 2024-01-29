@@ -4,6 +4,11 @@ This is the official repository of the paper ["Deep Multimodal Fusion of Data wi
 
 For questions about the code or the paper, please contact the first author, José Morano: <jose.moranosanchez@meduniwien.ac.at>, or open an issue in this repository (preferred).
 
+## Framework
+
+![image](https://github.com/j-morano/multimodal-fusion-fpn/assets/48717183/44282cbe-22f7-49ed-9e32-7c9765d3b3f5)
+Our proposed framework defines a novel fusion approach that extracts and projects the features of all modalities into the feature space of the modality with the lowest dimensionality (_n_), so that they can be employed for localization tasks in the common (_n_-dimensional, _n_D) subspace.
+
 
 ## Setting up the environment
 
