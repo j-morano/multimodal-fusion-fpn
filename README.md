@@ -1,6 +1,8 @@
 # 3D->2D segmentation using multimodal 3D+2D image fusion
 
-This is the official repository of the paper ["Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks"](https://doi.org/10.1109/JBHI.2024.3352970), published in _IEEE Journal of Biomedical and Health Informatics_ on January 2024.
+This is the official repository of the paper "Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks," published in _IEEE Journal of Biomedical and Health Informatics_ on January 2024.
+
+[[IEEE Xplore]](https://doi.org/10.1109/JBHI.2024.3352970)  [[arXiv]](https://arxiv.org/abs/2402.01311)
 
 For questions about the code or the paper, please contact the first author, José Morano: <jose.moranosanchez@meduniwien.ac.at>, or open an issue in this repository (preferred).
 
