@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2402.01311-red?logo=arXiv&logoColor=white)](https://arxiv.org/abs/2402.01311)
+
 # Deep Multimodal Fusion via Projective Networks
 
 This is the official repository of the paper "Deep Multimodal Fusion of Data with Heterogeneous Dimensionality via Projective Networks," published in _IEEE Journal of Biomedical and Health Informatics_ on January 2024.
